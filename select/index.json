@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ROB THE FRONTIER(short ver.)",
+  "base_artist": "UVERworld",
+  "createdAt": "2026-03-04T05:33:54.930561Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ROB THE FRONTIER (short ver.)",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/01_ROB_THE_FRONTIER_(short_ver.)_UVERworld.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ROB THE FRONTIER(short ver.)",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/02_ROB_THE_FRONTIER(short_ver.)_UVERworld.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ROB THE FRONTIER(short ver.)",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_ROB_THE_FRONTIER(short_ver.)_UVERworld.txt"
+    }
+  ]
+}
